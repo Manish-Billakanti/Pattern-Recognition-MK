@@ -1,6 +1,6 @@
 # /Pattern-Recognition-MK
 
-## Course: Applied Machine Learning 
+## Course: Pattern Recognition 
 ## Class: CECS 550, Section 2
 ## Student:  Manish Billakanti
 ## Semester: Fall 2023
